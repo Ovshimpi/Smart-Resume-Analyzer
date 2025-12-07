@@ -1,0 +1,5 @@
+{
+  "name": "Smart Resume Analyzer",
+  "description": "An AI-powered resume analysis tool using Google Gemini to provide ATS scoring, job matching, and career path predictions.",
+  "requestFramePermissions": []
+}
